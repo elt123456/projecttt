@@ -1,0 +1,5 @@
+Student
+Student Name : Student Marks
+Nidhi        :      95
+Nadiya       :     100
+Thanuja      :      90
